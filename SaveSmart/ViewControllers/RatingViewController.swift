@@ -14,9 +14,7 @@ class RatingViewController : UIViewController {
     }
     
     @IBAction func ButtonClick(_ sender: Any) {
-        if let url = URL(string: "itms-apps : //itunes.apple.com"), UIApplication.shared.canOpenURL(url){
-            UIApplication.shared.canOpenURL(url)
-        }
+        
     }
     
     

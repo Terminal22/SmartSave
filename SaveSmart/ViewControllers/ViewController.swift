@@ -8,8 +8,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    var name = ""
     
     @IBOutlet weak var addName: UITextField!
 
